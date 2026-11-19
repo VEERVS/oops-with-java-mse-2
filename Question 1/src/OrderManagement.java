@@ -8,7 +8,7 @@ public class OrderManagement {
         "jdbc:mysql://localhost:3306/ecommerce_db";
 
     static final String USER = "root";
-    static final String PASSWORD = "Veer@200709";
+    static final String PASSWORD = "YOUR_PASSWORD";
 
     static Scanner sc = new Scanner(System.in);
 
